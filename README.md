@@ -24,5 +24,9 @@
   - превью цвета (цветной прямоугольник);
   - текущий hex-код вида `#RRGGBB`;
   - подсказка «Нажмите ещё раз для нового случайного цвета».
+  <img width="1906" height="1015" alt="image" src="https://github.com/user-attachments/assets/ff5b27c5-fb7e-4589-8e08-32f2c4c3ec6e" />
+  <img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/1f0fec5b-6d38-47c3-bb70-5844505b46af" />
+
+
 
 
